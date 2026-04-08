@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.45.2](https://github.com/garyj/remnawave-bedolaga-telegram-bot/compare/v3.45.1...v3.45.2) (2026-04-08)
+
+
+### Bug Fixes
+
+* **ci:** read Docker image version from release-please manifest instead of hardcoding ([4ca395f](https://github.com/garyj/remnawave-bedolaga-telegram-bot/commit/4ca395f32bc84c3bc6d85fd1e890d5e8f77d1d7e))
+
 ## [3.45.1](https://github.com/BEDOLAGA-DEV/remnawave-bedolaga-telegram-bot/compare/v3.45.0...v3.45.1) (2026-04-03)
 
 
